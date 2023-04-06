@@ -1,0 +1,19 @@
+body {
+    padding: 0px;
+    margin: 0 auto;
+    
+}
+
+.container>div>* {
+    min-height: 300px;
+   
+}
+
+.container>div>article {
+    background-color: rgb(255, 255, 255);
+}
+
+.panel-footer {
+    display: flex;
+    justify-content: center;
+}
